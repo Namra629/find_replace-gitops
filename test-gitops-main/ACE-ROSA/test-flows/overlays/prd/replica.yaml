@@ -4,4 +4,4 @@ metadata:
   name: test-flows
   namespace: int
 spec:
-  replicas: 0
+  replicas: 2
