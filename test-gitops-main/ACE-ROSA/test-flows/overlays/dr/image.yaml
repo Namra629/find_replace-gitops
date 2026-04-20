@@ -11,7 +11,7 @@ spec:
           image: 560428703533.dkr.ecr.us-east-1.amazonaws.com/openshift-cicd:test-flows-main-f84fc3218bd7e1d8c6d5bf86c2f858d6eca7e0ed
           resources:
             limits:
-              cpu: 400m
+              cpu: 300m
               memory: 500Mi
             requests:
               cpu: 300m
